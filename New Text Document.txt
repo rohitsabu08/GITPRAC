@@ -6,7 +6,7 @@ hello
  sdsds
 merged
 
-
- 
-
 editing in branch 1
+
+editing from branch 2
+
